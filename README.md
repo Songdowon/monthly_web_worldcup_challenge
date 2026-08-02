@@ -69,4 +69,4 @@
 
 ## 시연 영상
 
-YouTube 링크: 개발 완료 후 추가 예정
+YouTube 링크: https://youtu.be/90-eNX7pTl8
