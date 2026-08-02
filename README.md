@@ -1,4 +1,4 @@
-# Touchline Live; 이게 감독이야?
+# Touchline Live; 당신이 감독이야?
 
 > DAKER 월간 해커톤 월드컵 전술 웹서비스 챌린지 제출 프로젝트
 
